@@ -27,9 +27,18 @@ Additionally, it includes interactive features such as:
 - HTML, CSS, JavaScript
 
 ## How to Run Locally
-1. Clone this repository: git clone https://github.com/Deepikabisht5/solar-system-threejs.git
-2.  Open the folder in VS Code or your preferred IDE.
-3. Use the *Live Server* extension or directly open index.html in a browser.
+1. *Download or clone this repository folder* to your local machine.
+2. Ensure the folder contains:
+   - index.html
+   - script.js
+   - style.css (if used)
+   - All *texture images* used for sun, planets, rings, and star background
+   - README.md
+3. *Open the folder* in VS Code or your preferred IDE to check file paths if needed.
+4. *Run the project:*
+   - Simply *double click index.html* to open in your default browser
+   - Alternatively, right click index.html and choose *“Open with Live Server”* if using VS Code Live Server extension for smoother execution
+5. The simulation should load displaying the *sun, planets, rings, and controls* as demonstrated in your submission
 
 ## Author
 Deepika Bisht
